@@ -5,7 +5,8 @@
 - 📫 You can reach me via my Discord: DönerNator#0887
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucgames12321)](https://github.com/anuraghazra/github-readme-stats)
+[![Doner's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucgames12321)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 lucgames12321/lucgames12321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
